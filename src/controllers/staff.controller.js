@@ -10,7 +10,7 @@ async function getStaff(req, res, params) {
 }
 
 async function postStaff(req, res, params) {
-  console.log("Inside postCustomer()");
+  console.log("Inside postStaff()");
   postHelper(
     req,
     res,
